@@ -1,0 +1,5 @@
+{
+  "name": "Study Quest",
+  "description": "A gamified pixel-art study companion. Showcases advanced Prompt Engineering (PTCF) with Gemini AI, featuring active recall guidance, quest-based learning, and secure session management.",
+  "requestFramePermissions": []
+}
